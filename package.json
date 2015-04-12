@@ -1,0 +1,15 @@
+{
+  "name": "dn",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "author": "George team",
+  "devDependencies": {
+    "body-parser": "^1.12.2",
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "youtube-dl": "^1.10.2",
+    "youtube-search": "^0.2.0"
+  },
+  "dependencies": {}
+}

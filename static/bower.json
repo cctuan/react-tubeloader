@@ -1,0 +1,15 @@
+{
+  "name": "tubeloader",
+  "version": "0.0.1",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.3",
+    "jqueryui": "~1.11.4",
+    "react": "~0.13.1"
+  }
+}
